@@ -13,3 +13,10 @@ print(f"som: {som}")
 print(f"verschil: {verschil}")
 print(f"product: {product}")
 print(f"deling: {deling}")
+#OEF C DEEL 2
+if getal1 % 2 == 0:
+    print("Het eerste getal is: even")
+else:
+    print("Het eerste getal is: oneven")
+kwadraat = getal1 ** 2
+print(f"kwadraat van eerste getal: {kwadraat}")
